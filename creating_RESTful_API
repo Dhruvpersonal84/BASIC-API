@@ -1,0 +1,10 @@
+Creating REST API 
+so in this case we are developing the small api with respect to post
+so in that case the things we will use to create they are:-
+
+
+GET     /posts      to get the data for all posts
+POST    /posts      to post a new information
+GET     /posts/:id   to get information of user
+PATCH   /posts/:id   to update the post of user 
+DELETE  /posts/:id   to delete the post of user

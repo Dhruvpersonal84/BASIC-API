@@ -1,0 +1,21 @@
+*{
+    background-color: antiquewhite;
+}
+h1{
+    background-color: brown;
+}
+.user{
+    font-style: italic;
+    background-color: blanchedalmond;
+}
+.content{
+    font-style: italic;
+    background-color: aliceblue;
+}
+.post{
+    background-color: antiquewhite;
+}
+h2{
+    font-style: italic;
+    background-color: brown;
+}
